@@ -1,16 +1,16 @@
-## Hi there 👋
+¡Hola! Soy Ángel Ortiz 👋
+🎓 Soy estudiante en Villa del Sur, en Cali, Colombia.
 
-<!--
-**alexisangeld/alexisangeld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me gusta expresarme de distintas formas: disfruto dibujar y tocar guitarra. También me encanta hablar de arte y jugar videojuegos.
 
-Here are some ideas to get you started:
+Un poco sobre mí
+🎨 Me gusta dibujar y explorar el arte.
+🎸 Disfruto tocar guitarra.
+🎮 Mis juegos favoritos son Limbus Company, Left 4 Dead y Roblox.
+💬 Me gusta conversar sobre arte y videojuegos.
+🌎 Hablo español e inglés.
+📍 Cali, Colombia
+¿Jugamos?
+¡Me gustaría conocer personas para jugar juntos algún día! Si también te gustan estos juegos, puedes saludarme. 😊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+¡Gracias por visitar mi perfil!
